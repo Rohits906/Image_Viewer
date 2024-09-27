@@ -1,2 +1,2 @@
 # Image_Viewer
-Created with CodeSandbox
+Created by Rohit Soni
