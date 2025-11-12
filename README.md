@@ -14,7 +14,7 @@ A modern, responsive image viewer web application built with React that allows u
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://rohits906.github.io/Image_Viewer/)
+[View Live Demo](https://image-viewer-dun.vercel.app/)
 
 ## 📁 Project Structure
 
