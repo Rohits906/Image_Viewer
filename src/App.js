@@ -39,7 +39,7 @@ export default function App() {
         onPlay = {()=>{
           alert("Slides is now playing!")
         }}
-      />;
+      />
     </div>
   );
 }
